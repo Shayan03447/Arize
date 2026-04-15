@@ -1,0 +1,17 @@
+# Core AI / observability stack
+arize-otel==0.12.0
+agno==2.5.14
+openai==2.31.0
+openinference-instrumentation-agno==0.1.29
+openinference-instrumentation-openai==0.1.44
+httpx==0.28.1
+
+# Jupyter environment
+jupyterlab>=4.0.0
+ipykernel>=6.29.0
+
+# Async support in notebooks (required by agno which is async-first)
+nest_asyncio>=1.6.0
+
+# Environment / secrets management
+python-dotenv>=1.0.0
