@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 .env
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -138,7 +137,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv
 env/
@@ -208,4 +206,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
->>>>>>> 8578b13ae4d0faa58d244799e10528995770bd7b
