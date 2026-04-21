@@ -12,6 +12,6 @@ ipykernel>=6.29.0
 
 # Async support in notebooks (required by agno which is async-first)
 nest_asyncio>=1.6.0
-
+p
 # Environment / secrets management
 python-dotenv>=1.0.0
